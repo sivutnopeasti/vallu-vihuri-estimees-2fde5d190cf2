@@ -1,0 +1,35 @@
+{
+  "site_id": "2fde5d190cf2",
+  "repo": "sivutnopeasti/vallu-vihuri-estimees-2fde5d190cf2",
+  "company": "Vallu&Vihuri Estimees",
+  "email": "gabriel.mansnerus@gmail.com",
+  "issue_number": 37,
+  "images": {
+    "logo": {
+      "url": "https://i.ibb.co/67ThXXGW/Gemini-Generated-Image-q3wwb1q3wwb1q3ww.jpg",
+      "alt": "Vallu&Vihuri Estimees logo"
+    },
+    "image-1": {
+      "url": "https://i.ibb.co/5hvSSRyw/Gemini-Generated-Image-x80a40x80a40x80a-1-1.jpg",
+      "alt": "Vaalea tammikeittiö kultaisilla vetimillä ja kalanruotoparkettilattia"
+    },
+    "image-2": {
+      "url": "https://i.ibb.co/k21myMYG/Gemini-Generated-Image-x3xamlx3xamlx3xa-1-1.jpg",
+      "alt": "Moderni kylpyhuone puukalusteisella allaskaapilla ja pyöreällä taustavalaisulla"
+    },
+    "image-3": {
+      "url": "https://i.ibb.co/sdC52DYf/Gemini-Generated-Image-l8hpevl8hpevl8hp-1.jpg",
+      "alt": "Eteinen, jossa mittatilauskonsolipöytä ja suurpeili"
+    }
+  },
+  "texts": {
+    "h1": "Puusepäntyöt\n          Tallinnassa",
+    "h2_1": "Mittatilauskalusteet ja puusepäntyöt",
+    "h2_2": "Valmiit kohteet",
+    "h2_3": "Vallu&amp;Vihuri Estimees",
+    "h2_4": "Kolme vaihetta unelmiesi tilaan",
+    "h2_5": "Yhteystiedot",
+    "h2_6": "Pyydä tarjous",
+    "hero_p": "Teemme mittatilauskalusteita ja puusepäntöitä suomeksi. Suunnittelemme, valmistamme ja asennamme keittiöt, kylpyhuonekalusteet ja yksittäiset huonekalut."
+  }
+}
